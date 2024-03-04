@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react';
 import listingsData from '../data/usedCarLists.json';
-import { IUsedCarListing } from '../common/usedCarListing';
+import { IListing } from '../common/usedCarListing';
 
-export const getUsedCarListings = (userId: string): Promise<IUsedCarListing[]> => {
+export const getListings = (userId: string): Promise<IListing[]> => {
   return new Promise(resolve => {
     setTimeout(() => {
       const userListing = listingsData.map(listing => ({ ...listing, userId }));
@@ -12,10 +12,10 @@ export const getUsedCarListings = (userId: string): Promise<IUsedCarListing[]> =
 };
 
 const useUserCarListings = (userId: string) => {
-  const [listings, setListings] = useState<IUsedCarListing[]>([]);
+  const [listings, setListings] = useState<IListing[]>([]);
 
   useEffect(() => {
-    getUsedCarListings(userId).then(data => setListings(data));
+    getListings(userId).then(data => setListings(data));
   }, [userId]);
 
   return { listings };

@@ -1,4 +1,4 @@
-export interface IUsedCarListing {
+export interface IListing {
   id: string;
   brand: string;
   year: number;
