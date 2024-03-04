@@ -171,6 +171,8 @@ const Listings: React.FC = () => {
                     <option>10</option>
                     <option>25</option>
                     <option>50</option>
+                    <option>100</option>
+                    <option>150</option>
                   </select>
                 </div>
                 <div className="flex flex-grow justify-end m-4">

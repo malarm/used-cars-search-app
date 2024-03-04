@@ -252,15 +252,6 @@
     "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
   },
   {
-    "id": "j",
-    "brand": "Lamborghini",
-    "year": 2022,
-    "name": "Huracan",
-    "price": 300000,
-    "kilometersDriven": 10000,
-    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
-  },
-  {
     "id": "k",
     "brand": "Maserati",
     "year": 2019,
@@ -276,6 +267,205 @@
     "name": "Cooper",
     "price": 18000,
     "kilometersDriven": 80000,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+  {
+    "id": "cd3456-34ab012345cd",
+    "brand": "Mini",
+    "year": 2016,
+    "name": "Cooper New",
+    "price": 17000,
+    "kilometersDriven": 50000,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+  {
+    "id": "cd3456-klab012345cd",
+    "brand": "Maserati",
+    "year": 2011,
+    "name": "Ghibli New",
+    "price": 80000,
+    "kilometersDriven": 70000,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+  {
+    "id": "cd3456-34ab012345cd",
+    "brand": "Buick",
+    "year": 2016,
+    "name": "Enclave New",
+    "price": 20000,
+    "kilometersDriven": 60000,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+  {
+    "id": "cd3456-34ab012345cd",
+    "brand": "Cadillac",
+    "year": 2013,
+    "name": "Escalade New",
+    "price": 60000,
+    "kilometersDriven": 28000,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+  {
+    "id": "cd3456-34ab012nbhjj75cd",
+    "brand": "Chrysler",
+    "year": 2018,
+    "name": "300 New",
+    "price": 65000,
+    "kilometersDriven": 20000,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+  {
+    "id": "cd3456-34a458l2345cd",
+    "brand": "Dodge",
+    "year": 2019,
+    "name": "Charger New",
+    "price": 29000,
+    "kilometersDriven": 40000,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+  {
+    "id": "cd3456-34ab012345cd",
+    "brand": "GMC",
+    "year": 2020,
+    "name": "Yukon New",
+    "price": 80000,
+    "kilometersDriven": 25000,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+  {
+    "id": "cd3456-34ab012345cd",
+    "brand": "Infiniti",
+    "year": 2019,
+    "name": "Q50 New",
+    "price": 34000,
+    "kilometersDriven": 20000,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+
+  {
+    "id": "cd3456-33332345cd",
+    "brand": "Toyota",
+    "year": 2022,
+    "name": "Corolla New",
+    "price": 30000,
+    "kilometersDriven": 40000,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+  {
+    "id": "0b5d0b4c-0a0423423a-4345-8e71-7b2d8d51c80b",
+    "brand": "Honda",
+    "year": 2019,
+    "name": "Civic New",
+    "price": 19000,
+    "kilometersDriven": 50000,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+  {
+    "id": "8e9d4224-0f666689-4e39-ae6a-0a70cc0a491a",
+    "brand": "Volvo",
+    "year": 2021,
+    "name": "XC90 New",
+    "price": 39000,
+    "kilometersDriven": 31000,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+  {
+    "id": "4f5a6b7c-8d9e-0f1a-2444b3c-4d5e6f7g8h9i",
+    "brand": "Toyota",
+    "year": 2016,
+    "name": "Camry New",
+    "price": 23000,
+    "kilometersDriven": 46000,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+  {
+    "id": "1j2k3l4m5n6o7p8q9r04w5x6y7z8a9b0",
+    "brand": "BMW",
+    "year": 2023,
+    "name": "X5 New",
+    "price": 46000,
+    "kilometersDriven": 29000,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+  {
+    "id": "23cd4567-89ef-0123-4567-812345cd",
+    "brand": "Ford",
+    "year": 2019,
+    "name": "Focus New",
+    "price": 19000,
+    "kilometersDriven": 78000,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+  {
+    "id": "4567-89ef-0123-4567-8dfgdf12345cd",
+    "brand": "Chevrolet",
+    "year": 2019,
+    "name": "Malibu New1",
+    "price": 26000,
+    "kilometersDriven": 59000,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+  {
+    "id": "6789ef-0123-4567-89afgdsg452345cd",
+    "brand": "Nissan",
+    "year": 2021,
+    "name": "Altima New",
+    "price": 21000,
+    "kilometersDriven": 38000,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+  {
+    "id": "89ef-0123-4567-89a977msd245cd",
+    "brand": "Hyundai",
+    "year": 2016,
+    "name": "Elantra New",
+    "price": 19000,
+    "kilometersDriven": 45900,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+  {
+    "id": "0123-4567-89ab0299ds4l45cd",
+    "brand": "Tesla",
+    "year": 2023,
+    "name": "Model 6",
+    "price": 52000,
+    "kilometersDriven": 22000,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+  {
+    "id": "34567-89ab012345cdfgdf43d",
+    "brand": "Audi",
+    "year": 2018,
+    "name": "A41",
+    "price": 39000,
+    "kilometersDriven": 34000,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+  {
+    "id": "567-89ab012345cd-dfgdf",
+    "brand": "Mercedes-Benz",
+    "year": 2016,
+    "name": "C-Class-New",
+    "price": 49000,
+    "kilometersDriven": 41000,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+  {
+    "id": "789ab012345cd-fgdf4534",
+    "brand": "Subaru",
+    "year": 2019,
+    "name": "Outback",
+    "price": 28000,
+    "kilometersDriven": 61000,
+    "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
+  },
+  {
+    "id": "ab012345cd-sdfgd45",
+    "brand": "Mazda",
+    "year": 2013,
+    "name": "Mazda3 New",
+    "price": 18000,
+    "kilometersDriven": 81000,
     "imageUrl": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?cs=srgb&dl=lights-car-vehicle-244206.jpg&fm=jpg"
   }
 ]
